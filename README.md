@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hotevo
-- 👀 I’m interested in makinf a car PC
-- 🌱 I’m currently learning to 
+- 👀 I’m interested in making a car PC
+- 🌱 I’m currently learning to use my Raspberry
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - 1hotevo9@gmail.com
 
